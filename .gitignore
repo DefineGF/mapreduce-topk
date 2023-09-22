@@ -1,0 +1,12 @@
+target/
+*.class
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
